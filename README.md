@@ -4,4 +4,5 @@
 Start: 14 May 2020\
 End:   ...
 
-- Thu 15 May 2020: **Day 01 - JavaScript Drum Kit**
+- Thu 14 May 2020: **Day 00 - Set up project**
+- Fri 15 May 2020: **Day 01 - JavaScript Drum Kit**
