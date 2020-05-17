@@ -8,3 +8,4 @@ End:   ...
 - Fri 15 May 2020: **Day 01 - JavaScript Drum Kit**
 - Fri 15 May 2020: **Day 02 - CSS + JS Clock**
 - Sat 16 May 2020: **Day 03 - CSS Varaibles with JS**
+- Sun 17 May 2020: **Day 04 - Array Cardio Day 1**
